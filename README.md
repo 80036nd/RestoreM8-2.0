@@ -4,7 +4,7 @@ RestoreM8-2.0 (previously RestoreM8-14) is the first app supporting iOS 14 downg
 
 # Download
 
-Download a Pre-compiled version here 
+Download a Pre-compiled version here https://github.com/80036nd/RestoreM8-2.0/files/5999159/RestoreM8.2.0.zip
 
 # Requirements:
 
