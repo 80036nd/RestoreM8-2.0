@@ -40,4 +40,4 @@ Generator Auto Setter by @halo_michael
 
 Legacy patches by GeoSn0w (iDevice Central)
 
-Futurerestore for iOS 14 @marijuanARM and @tihmstar
+Futurerestore for iOS 14 @_m1sta and @tihmstar
