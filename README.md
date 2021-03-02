@@ -20,7 +20,7 @@ Make sure the SEP and Baseband are compatable.
 
 # iOS 14 Downgrades supported versions include:
 
-(iOS 14 version only 13 and under do not apply to this)
+(iOS 14 version only, 13 and under do not apply to this)
 
 Compatible with 14.0-14.5b2 on A10 and below.
 
